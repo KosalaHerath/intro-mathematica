@@ -1,0 +1,64 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1726,         56]
+NotebookOptionsPosition[      1213,         39]
+NotebookOutlinePosition[      1556,         54]
+CellTagsIndexPosition[      1513,         51]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[TextData[StyleBox["Number Theory", "Title",
+ FontColor->RGBColor[
+  0.48627450980392156`, 0.027450980392156862`, 0.00392156862745098]]], "Title",
+ CellChangeTimes->{
+  3.795656615077927*^9},ExpressionUUID->"2f5bce0b-3694-4e8a-9edf-\
+87967f71344c"],
+
+Cell[TextData[StyleBox["Putting it Together", "Chapter",
+ FontColor->RGBColor[
+  0.3333333333333333, 0.3333333333333333, 0.3333333333333333]]], "Subtitle",
+ CellChangeTimes->{{3.7956566305044565`*^9, 
+  3.7956566372313004`*^9}},ExpressionUUID->"e879f918-5293-4495-9f1d-\
+262710364d69"],
+
+Cell["", "Section",ExpressionUUID->"717f7435-4ebd-4941-b8a0-d526eb340111"]
+}, Open  ]]
+},
+WindowSize->{1440, 827},
+WindowMargins->{{-8, Automatic}, {Automatic, -8}},
+FrontEndVersion->"12.0 for Microsoft Windows (64-bit) (April 8, 2019)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 252, 5, 96, "Title",ExpressionUUID->"2f5bce0b-3694-4e8a-9edf-87967f71344c"],
+Cell[835, 29, 285, 5, 64, "Subtitle",ExpressionUUID->"e879f918-5293-4495-9f1d-262710364d69"],
+Cell[1123, 36, 74, 0, 67, "Section",ExpressionUUID->"717f7435-4ebd-4941-b8a0-d526eb340111"]
+}, Open  ]]
+}
+]
+*)
+
